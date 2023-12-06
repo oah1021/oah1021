@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oah1021&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oah1021&show_icons=true&theme=radical&hide=stars$locale=cn)
 <!--
 **oah1021/oah1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
